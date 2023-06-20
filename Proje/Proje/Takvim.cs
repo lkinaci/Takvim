@@ -71,8 +71,7 @@ namespace Proje
                 daycontainer.Controls.Add(ucdays);
             }
         }
-
-        private void lbltarih_Click(object sender, EventArgs e)
+         private void lbltarih_Click(object sender, EventArgs e)
         {
 
         }
