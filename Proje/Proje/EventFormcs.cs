@@ -35,9 +35,7 @@ namespace Proje
                 txtOlayAciklama.Text = dr[4].ToString();    
             }
             connection.Close();
-
-
-        }
+         }
      
 
         private void btnnkaydet_Click(object sender, EventArgs e)
